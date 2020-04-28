@@ -86,3 +86,4 @@ H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting
 H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Server\obj\Debug\netcoreapp3.1\BethanysPieShopHRM.Server.pdb
 H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Server\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeDetail.razor.g.cs
 H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Server\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeDetail.razor.g.cs
+H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Server\bin\Debug\netcoreapp3.1\wwwroot\images\bethanylogo.png
