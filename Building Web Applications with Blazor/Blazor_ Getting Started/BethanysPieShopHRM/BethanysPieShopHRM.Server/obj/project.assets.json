@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "BethanysPieShopHRM.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/BethanysPieShopHRM.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BethanysPieShopHRM.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BethanysPieShopHRM.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BethanysPieShopHRM.Shared/BethanysPieShopHRM.Shared.csproj",
+      "msbuildProject": "../BethanysPieShopHRM.Shared/BethanysPieShopHRM.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "BethanysPieShopHRM.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\MisterFur\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "H:\\DevProjects\\Pluralsight\\Building Web Applications with Blazor\\Blazor_ Getting Started\\BethanysPieShopHRM\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj": {
+              "projectPath": "H:\\DevProjects\\Pluralsight\\Building Web Applications with Blazor\\Blazor_ Getting Started\\BethanysPieShopHRM\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
