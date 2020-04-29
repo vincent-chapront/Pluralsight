@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Server",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Shared", "BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{3F100388-0736-45B7-BA1E-53B717AA93A7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Api", "BethanysPieShopHRM.Api\BethanysPieShopHRM.Api.csproj", "{FC5A05CF-80AD-4725-A03E-68811945B674}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F100388-0736-45B7-BA1E-53B717AA93A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F100388-0736-45B7-BA1E-53B717AA93A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F100388-0736-45B7-BA1E-53B717AA93A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5A05CF-80AD-4725-A03E-68811945B674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5A05CF-80AD-4725-A03E-68811945B674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5A05CF-80AD-4725-A03E-68811945B674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5A05CF-80AD-4725-A03E-68811945B674}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
