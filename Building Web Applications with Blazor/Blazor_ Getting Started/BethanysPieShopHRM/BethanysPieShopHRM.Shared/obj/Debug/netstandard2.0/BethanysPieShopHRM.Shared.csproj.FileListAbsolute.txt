@@ -1,8 +1,0 @@
-H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Shared\bin\Debug\netstandard2.0\BethanysPieShopHRM.Shared.deps.json
-H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Shared\bin\Debug\netstandard2.0\BethanysPieShopHRM.Shared.dll
-H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Shared\bin\Debug\netstandard2.0\BethanysPieShopHRM.Shared.pdb
-H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.csprojAssemblyReference.cache
-H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
-H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.AssemblyInfo.cs
-H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.dll
-H:\DevProjects\Pluralsight\Building Web Applications with Blazor\Blazor_ Getting Started\BethanysPieShopHRM\BethanysPieShopHRM.Shared\obj\Debug\netstandard2.0\BethanysPieShopHRM.Shared.pdb
