@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BethanysPieShopHRM.Server.Services
 {
-    public interface IEmployeeDataService
+	public interface IEmployeeDataService
     {
         Task<IEnumerable<Employee>> GetAllEmployees();
         Task<Employee> GetEmployeeDetails(int employeeId);
@@ -14,4 +14,6 @@ namespace BethanysPieShopHRM.Server.Services
         Task UpdateEmployee(Employee employee);
         Task DeleteEmployee(int employeeId);
     }
+
+
 }
